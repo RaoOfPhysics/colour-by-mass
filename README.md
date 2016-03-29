@@ -15,7 +15,7 @@ A dynamic installation representing Higgs data &mdash; specifically the boson's 
 
 ## The Higgs boson
 
-Discovered in 2012 by the [CMS](http://cms.web.cern.ch) and [ATLAS](http://atlas.ch) collaborations at [CERN's Large Hardon Collider](http://home.cern/topics/large-hadron-collider), the Higgs boson is a particle associated with the phenomenon that gives mass to all fundamental particles.
+Discovered in 2012 by the [CMS](http://cms.web.cern.ch) and [ATLAS](http://atlas.ch) collaborations at [CERN's Large Hardon Collider](http://home.cern/topics/large-hadron-collider), the [Higgs boson](https://en.wikipedia.org/wiki/Higgs_boson) is a particle associated with the phenomenon that gives mass to all fundamental particles.
 One of the ways in which the Higgs can be observed is through its transformation or *[decay](https://en.wikipedia.org/wiki/Particle_decay)* into two photons, the particles of light (see image below).
 This is known as the "di-photon" decay channel.
 
@@ -39,7 +39,7 @@ The correct way to visualise Higgs transformations to photons is like this:
 
 What you are seeing is a build-up of "di-photon" data represented as a histogram.
 Two photons can be produced from a number of (background) processes and so you would expect a falling slope in your histogram.
-However, at a mass of around 125 GeV, you see a statistically significant, albeit slight, bump in the data.
+However, at a mass of around 125–126 GeV, you see a statistically significant, albeit slight, bump in the data.
 This bump, which rises above the background expectation, shows photons that may have emerged from a Higgs boson.
 
 Now, since photons are the particles of light (or, to be precise, the particles associated with electromagnetic radiation), this project uses the rather tenuous connection of "photons &rarr; light &rarr; colour" to produce a dynamic piece of art.
@@ -49,10 +49,11 @@ In this piece, the energies of each photon from the "di-photon" system are assoc
 
 ## Technical details
 
-The project is built using [D3.js] and relies on open data from the CMS Collaboration, available on the [CERN Open Data Portal](http://opendata.cern.ch).
+The project is built using [D3.js](https://d3js.org/) and relies on open data from the CMS Collaboration, available on the [CERN Open Data Portal](http://opendata.cern.ch).
 The di-photon data used in this specific piece are extracted from […] using […], and can be found at […].
 
 ## FAQ
 
 - **Q1**: If you are talking about mass of the Higgs boson, why do you refer to the energies of the photons?
+
 > **A1**: […]
