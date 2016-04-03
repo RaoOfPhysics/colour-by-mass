@@ -8,7 +8,9 @@ A dynamic installation representing Higgs data &mdash; specifically the boson's 
 
 - [The Higgs boson](#the-higgs-boson)
   - [Visualising two photons](#visualising-two-photons)
+- [The art piece](#the-art-piece)
 - [Technical details](#technical-details)
+- [Glossary](#glossary)
 - [FAQ](#faq)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -45,12 +47,24 @@ This bump, which rises above the background expectation, shows photons that may 
 Now, since photons are the particles of light (or, to be precise, the particles associated with electromagnetic radiation), this project uses the rather tenuous connection of "photons &rarr; light &rarr; colour" to produce a dynamic piece of art.
 In this piece, the energies of each photon from the "di-photon" system are associated with specific values from the visible electromagnetic spectrum.
 
-[…]
+## The art piece
+
+The canvas is divided into a grid of squares, each of which are further sub-divided by diagonals into triangles.
+Each square represents a di-photon event, with the two triangles it contains corresponding to the energies of the two photons such that the square gives you the mass of the di-photon system.
+The innermost four squares show "colourified" data from di-photon systems with a mass close to that of the Higgs boson itself (≈125 GeV).
+The further away from the centre you go, the further away from the Higgs mass the di-photons' mass gets, until you come to the outermost squares, which have masses 10 GeV away from 125 (i.e. 115 GeV or 135 GeV).
 
 ## Technical details
 
 The project is built using [D3.js](https://d3js.org/) and relies on open data from the CMS Collaboration, available on the [CERN Open Data Portal](http://opendata.cern.ch).
 The di-photon data used in this specific piece are extracted from […] using […], and can be found at […].
+
+## Glossary
+
+- **Event**:
+- **Higgs**:
+- **Photon**:
+- **?**:
 
 ## FAQ
 
